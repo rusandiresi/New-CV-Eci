@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Mahasiswa Sistem Informasi",
+  "description": "Website portofolio profesional dan interaktif dwibahasa (Indonesia & Inggris) untuk mahasiswa Sistem Informasi, dilengkapi showcase analisis proses bisnis, proyek web, database, dan resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
